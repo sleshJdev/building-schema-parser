@@ -1,6 +1,5 @@
 package by.slesh.bsparser;
 
-
 /**
  * @author Eugene Putsykovich(slesh) May 28, 2015
  */
